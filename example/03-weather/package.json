@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "daruk": "lastest",
-    "iconv-lite": "^0.4.24",
+    "iconv-lite": "^0.6.2",
     "request-promise": "^4.2.4"
   }
 }
