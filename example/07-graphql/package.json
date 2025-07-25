@@ -14,7 +14,7 @@
     "ts-node": "^8.1.0"
   },
   "dependencies": {
-    "apollo-server-koa": "^2.5.0",
+    "apollo-server-koa": "^3.13.0",
     "daruk": "lastest",
     "graphql": "^14.3.0"
   }
